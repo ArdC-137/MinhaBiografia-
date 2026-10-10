@@ -9,7 +9,7 @@
 🛠️ Tecnologias
 Tecnologias com as quais tive contato durante meus estudos e projetos:
 
-Java Python HTML5 
+Java; Python; HTML5. 
 
 📚 Atualmente
 Aprimorando meus fundamentos de programação e resolução de problemas.
